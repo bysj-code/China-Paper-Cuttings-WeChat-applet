@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#f06f4f",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "剪纸教学视频详情",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
